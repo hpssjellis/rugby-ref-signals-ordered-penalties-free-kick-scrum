@@ -51,6 +51,9 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Obstruction in open play (penalty) [<img src="https://laws.worldrugby.org/images/signals/33_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=33)
 
+1. Failure to bind (penalty) [<img src="https://laws.worldrugby.org/images/signals/24_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=24)
+
+
 1. Offside in the lineout (penalty) [<img src="" width=50px>]()
 1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
 1. Diving to the ground near the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/14_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=14)
@@ -71,24 +74,24 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Foot-up by front-row player (free-kick) [<img src="https://laws.worldrugby.org/images/signals/22_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=22)
 1. Throw at scrum not straight (free-kick) [<img src="https://laws.worldrugby.org/images/signals/23_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=23)
 1. Closing gaps in lineout (free-kick) [<img src="https://laws.worldrugby.org/images/signals/27_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=27)
-1. Early lifting and lifting in lineout (free-kick) [<img src="" width=50px>]()
-
-1. Failure to bind (penalty) [<img src="" width=50px>]()
-1. Head injury assessment required [<img src="" width=50px>]()
-1. Dissent (disputing referee’s decision) (penalty) [<img src="" width=50px>]()
-1. Intentionally falling over on a player (penalty) [<img src="" width=50px>]()
-1. Joining a ruck or a maul in front of the back foot and from the side (penalty) [<img src="" width=50px>]()
+1. Early lifting and lifting in lineout (free-kick) [<img src="https://laws.worldrugby.org/images/signals/31_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=31)
 
 
-1. Doctor needed [<img src="" width=50px>]()
-1. Bleeding wound [<img src="" width=50px>]()
-1. Prop pulling opponent (penalty) [<img src="" width=50px>]()
-1. Barging in lineout (penalty) [<img src="" width=50px>]()
+1. Head injury assessment required [<img src="https://laws.worldrugby.org/images/signals/50_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=50)
+1. Dissent (disputing referee’s decision) (penalty) [<img src="https://laws.worldrugby.org/images/signals/40_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=40)
+1. Intentionally falling over on a player (penalty) [<img src="https://laws.worldrugby.org/images/signals/13_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=13)
+1. Joining a ruck or a maul in front of the back foot and from the side (penalty) [<img src="https://laws.worldrugby.org/images/signals/17_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=17)
 
-1. Leaning on player in lineout (penalty) [<img src="" width=50px>]()
-1. Pushing opponent in lineout (penalty) [<img src="" width=50px>]()
-1. Stamping (foul play)(penalty) [<img src="" width=50px>]()
-1. Punching (foul play)(penalty) [<img src="" width=50px>]()
-1. Physiotherapist needed [<img src="" width=50px>]()
+
+1. Doctor needed [<img src="https://laws.worldrugby.org/images/signals/44_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=44)
+1. Bleeding wound [<img src="https://laws.worldrugby.org/images/signals/45_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=45)
+1. Prop pulling opponent (penalty) [<img src="https://laws.worldrugby.org/images/signals/20_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=20)
+1. Barging in lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/28_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=28)
+
+1. Leaning on player in lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/29_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=29)
+1. Pushing opponent in lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/30_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=30)
+1. Stamping (foul play)(penalty) [<img src="https://laws.worldrugby.org/images/signals/38_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=38)
+1. Punching (foul play)(penalty) [<img src="https://laws.worldrugby.org/images/signals/39_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=39)
+1. Physiotherapist needed [<img src="https://laws.worldrugby.org/images/signals/43_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=43)
 
 
