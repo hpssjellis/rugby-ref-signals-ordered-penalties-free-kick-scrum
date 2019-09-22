@@ -53,24 +53,24 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Offside in the lineout (penalty) [<img src="" width=50px>]()
 1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
-1. Diving to the ground near the tackle (penalty) [<img src="" width=50px>]()
-1. Intentionally collapsing ruck or maul (penalty) [<img src="" width=50px>]()
-1. 22 drop-out [<img src="" width=50px>]()
+1. Diving to the ground near the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/14_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=14)
+1. Intentionally collapsing ruck or maul (penalty) [<img src="https://laws.worldrugby.org/images/signals/18_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=18)
+1. 22 drop-out [<img src="https://laws.worldrugby.org/images/signals/41_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=41)
 
 
-1. Prop pulling down opponent (penalty) [<img src="" width=50px>]()
-1. Referee consults TMO [<img src="" width=50px>]()
-1. Entering tackle from wrong direction (penalty) [<img src="" width=50px>]()
-1. Ball held up in in-goal (scrum) [<img src="" width=50px>]()
-1. Unplayable ball in ruck or tackle (scrum) [<img src="" width=50px>]()
-1. Unplayable ball in maul (scrum) [<img src="" width=50px>]()
+1. Prop pulling down opponent (penalty) [<img src="https://laws.worldrugby.org/images/signals/19_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=19)
+1. Referee consults TMO [<img src="https://laws.worldrugby.org/images/signals/52_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=52)
+1. Entering tackle from wrong direction (penalty) [<img src="https://laws.worldrugby.org/images/signals/12_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=12)
+1. Ball held up in in-goal (scrum) [<img src="https://laws.worldrugby.org/images/signals/42_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=42)
+1. Unplayable ball in ruck or tackle (scrum) [<img src="https://laws.worldrugby.org/images/signals/15_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=15)
+1. Unplayable ball in maul (scrum) [<img src="https://laws.worldrugby.org/images/signals/16_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=16)
 
-1. Scrum wheeled more than 90 degrees (scrum) [<img src="" width=50px>]()
+1. Scrum wheeled more than 90 degrees (scrum) [<img src="https://laws.worldrugby.org/images/signals/21_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=21)
 
 1. Free Kick (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/2_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=2)
-1. Foot-up by front-row player (free-kick) [<img src="" width=50px>]()
-1. Throw at scrum not straight (free-kick) [<img src="" width=50px>]()
-1. Closing gaps in lineout (free-kick) [<img src="" width=50px>]()
+1. Foot-up by front-row player (free-kick) [<img src="https://laws.worldrugby.org/images/signals/22_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=22)
+1. Throw at scrum not straight (free-kick) [<img src="https://laws.worldrugby.org/images/signals/23_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=23)
+1. Closing gaps in lineout (free-kick) [<img src="https://laws.worldrugby.org/images/signals/27_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=27)
 1. Early lifting and lifting in lineout (free-kick) [<img src="" width=50px>]()
 
 1. Failure to bind (penalty) [<img src="" width=50px>]()
