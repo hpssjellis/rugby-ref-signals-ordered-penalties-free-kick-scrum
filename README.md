@@ -32,58 +32,63 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Try  [<img src="https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=3)
 1. Tackler or tackled player not rolling away (penalty) [<img src="https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
 
+1. Not releasing ball immediately in the tackle [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
+1. Tackler not releasing tackled player [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
+
 1. Handling ball in ruck or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/25_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=25)
 
 1. Offside at scrum, ruck or maul (penalty) [<img src="https://laws.worldrugby.org/images/signals/34_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=34)
 1. Throw at lineout not straight (scrum) [<img src="https://laws.worldrugby.org/images/signals/26_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=26)
 1. Forming a scrum [<img src="https://laws.worldrugby.org/images/signals/6_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=6)
 
+
+
+
+1. High tackle (foul play) (penalty) [<img src="https://laws.worldrugby.org/images/signals/37_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=37)
+1. Time off [<img src="https://laws.worldrugby.org/images/signals/51_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=51)
 1. Timekeeper to stop and start watch (penalty) [<img src="https://laws.worldrugby.org/images/signals/46_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=46)
+1. Offside under 10-metre law or not 10 metres at penalty and free-kicks (penalty) [<img src="https://laws.worldrugby.org/images/signals/36_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=36)
 
-1. Not releasing ball immediately in the tackle [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
-1. Tackler not releasing tackled player [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
-1. High tackle (foul play) (penalty) [<img src="" width=50px>]()
-1. Time off [<img src="" width=50px>]()
-1. Offside under 10-metre law or not 10 metres at penalty and free-kicks (penalty) [<img src="" width=50px>]()
+1. Obstruction in open play (penalty) [<img src="https://laws.worldrugby.org/images/signals/33_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=33)
 
-1. Obstruction in open play (penalty)
-1. Offside in the lineout (penalty)
+1. Offside in the lineout (penalty) [<img src="" width=50px>]()
 1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
-1. Diving to the ground near the tackle (penalty)
-1. Intentionally collapsing ruck or maul (penalty)
-1. 22 drop-out
+1. Diving to the ground near the tackle (penalty) [<img src="" width=50px>]()
+1. Intentionally collapsing ruck or maul (penalty) [<img src="" width=50px>]()
+1. 22 drop-out [<img src="" width=50px>]()
 
-1. Referee consults TMO
-1. Entering tackle from wrong direction (penalty)
-1. Ball held up in in-goal (scrum)
-1. Unplayable ball in ruck or tackle (scrum)
-1. Unplayable ball in maul (scrum)
 
-1. Scrum wheeled more than 90 degrees (scrum)
+1. Prop pulling down opponent (penalty) [<img src="" width=50px>]()
+1. Referee consults TMO [<img src="" width=50px>]()
+1. Entering tackle from wrong direction (penalty) [<img src="" width=50px>]()
+1. Ball held up in in-goal (scrum) [<img src="" width=50px>]()
+1. Unplayable ball in ruck or tackle (scrum) [<img src="" width=50px>]()
+1. Unplayable ball in maul (scrum) [<img src="" width=50px>]()
+
+1. Scrum wheeled more than 90 degrees (scrum) [<img src="" width=50px>]()
 
 1. Free Kick (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/2_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=2)
-1. Foot-up by front-row player (free-kick)
-1. Throw at scrum not straight (free-kick)
-1. Closing gaps in lineout (free-kick)
-1. Early lifting and lifting in lineout (free-kick)
+1. Foot-up by front-row player (free-kick) [<img src="" width=50px>]()
+1. Throw at scrum not straight (free-kick) [<img src="" width=50px>]()
+1. Closing gaps in lineout (free-kick) [<img src="" width=50px>]()
+1. Early lifting and lifting in lineout (free-kick) [<img src="" width=50px>]()
 
-1. Failure to bind (penalty)
-1. Head injury assessment required
-1. Dissent (disputing referee’s decision) (penalty)
-1. Intentionally falling over on a player (penalty)
-1. Joining a ruck or a maul in front of the back foot and from the side (penalty)
+1. Failure to bind (penalty) [<img src="" width=50px>]()
+1. Head injury assessment required [<img src="" width=50px>]()
+1. Dissent (disputing referee’s decision) (penalty) [<img src="" width=50px>]()
+1. Intentionally falling over on a player (penalty) [<img src="" width=50px>]()
+1. Joining a ruck or a maul in front of the back foot and from the side (penalty) [<img src="" width=50px>]()
 
 
-1. Doctor needed
-1. Bleeding wound
-1. Prop pulling down opponent (penalty)
-1. Prop pulling opponent (penalty)
-1. Barging in lineout (penalty)
+1. Doctor needed [<img src="" width=50px>]()
+1. Bleeding wound [<img src="" width=50px>]()
+1. Prop pulling opponent (penalty) [<img src="" width=50px>]()
+1. Barging in lineout (penalty) [<img src="" width=50px>]()
 
-1. Leaning on player in lineout (penalty)
-1. Pushing opponent in lineout (penalty)
-1. Stamping (foul play)(penalty)
-1. Punching (foul play)(penalty)
-1. Physiotherapist needed
+1. Leaning on player in lineout (penalty) [<img src="" width=50px>]()
+1. Pushing opponent in lineout (penalty) [<img src="" width=50px>]()
+1. Stamping (foul play)(penalty) [<img src="" width=50px>]()
+1. Punching (foul play)(penalty) [<img src="" width=50px>]()
+1. Physiotherapist needed [<img src="" width=50px>]()
 
 
