@@ -65,16 +65,17 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Intentionally falling over on a player (penalty)
 1. Joining a ruck or a maul in front of the back foot and from the side (penalty)
 
+
+1. Doctor needed
+1. Bleeding wound
 1. Prop pulling down opponent (penalty)
 1. Prop pulling opponent (penalty)
 1. Barging in lineout (penalty)
+
 1. Leaning on player in lineout (penalty)
 1. Pushing opponent in lineout (penalty)
-
 1. Stamping (foul play)(penalty)
 1. Punching (foul play)(penalty)
 1. Physiotherapist needed
-1. Doctor needed
-1. Bleeding wound
 
 
