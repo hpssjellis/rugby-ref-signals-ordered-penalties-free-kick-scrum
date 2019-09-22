@@ -20,10 +20,10 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Knock-on (scrum) [![](https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=2&videoid=8)
 
-1. Throw forward or forward pass (scrum)
-1. Try 
-1. Tackler or tackled player not rolling away (penalty)
-1. Handling ball in ruck or scrum (penalty)
+1. Throw forward or forward pass (scrum) [![]()]()
+1. Try  [![]()]()
+1. Tackler or tackled player not rolling away (penalty) [![]()]()
+1. Handling ball in ruck or scrum (penalty) [![]()]()
 
 1. Offside at scrum, ruck or maul (penalty)
 1. Throw at lineout not straight (scrum)
