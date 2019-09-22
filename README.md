@@ -51,7 +51,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 
 
-Rare Ref Signals
+
 1. Intentionally falling over on a player (penalty)
 1. Joining a ruck or a maul in front of the back foot and from the side (penalty)
 1. Prop pulling down opponent (penalty)
