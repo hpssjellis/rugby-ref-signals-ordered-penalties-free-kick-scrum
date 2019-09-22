@@ -20,7 +20,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 ## Ref Signals in order of called (Very un-scientific just how I feel about it) 
 
 
-1. Knock-on (scrum) [![](https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg | width=100)](https://laws.worldrugby.org/?signal_category=2&videoid=8)
+1. Knock-on (scrum) [![](https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg?v=4&s=100)](https://laws.worldrugby.org/?signal_category=2&videoid=8)
 
 1. Throw forward or forward pass (scrum) [![](https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=2&videoid=7)
 1. Try  [![](https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=1&videoid=3)
