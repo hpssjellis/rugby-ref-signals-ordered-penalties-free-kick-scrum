@@ -23,8 +23,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 
 
-1. <span style="color:red">Penalty (Primary Ref Signal)</span> [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
-1. <span style="color:blue"> Scrum (Primary Ref Signal) </span> [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
+1. Penalty (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
+1. Scrum (Primary Ref Signal)  [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
 
 
 1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=8)
@@ -33,8 +33,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Try  [<img src="https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=3)
 1. Tackler or tackled player not rolling away (penalty) [<img src="https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
 
-1. Not releasing ball immediately in the tackle [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
-1. Tackler not releasing tackled player [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
+1. Not releasing ball immediately in the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
+1. Tackler not releasing tackled player (penalty) [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
 
 1. Handling ball in ruck or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/25_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=25)
 
@@ -47,7 +47,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. High tackle (foul play) (penalty) [<img src="https://laws.worldrugby.org/images/signals/37_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=37)
 1. Time off [<img src="https://laws.worldrugby.org/images/signals/51_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=51)
-1. Timekeeper to stop and start watch (penalty) [<img src="https://laws.worldrugby.org/images/signals/46_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=46)
+1. Timekeeper to stop and start watch [<img src="https://laws.worldrugby.org/images/signals/46_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=46)
 1. Offside under 10-metre law or not 10 metres at penalty and free-kicks (penalty) [<img src="https://laws.worldrugby.org/images/signals/36_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=36)
 
 1. Obstruction in open play (penalty) [<img src="https://laws.worldrugby.org/images/signals/33_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=33)
@@ -56,7 +56,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 
 1. Offside in the lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/32_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=32)
-1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
+1. Offside choice: penalty or scrum [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
 1. Diving to the ground near the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/14_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=14)
 1. Intentionally collapsing ruck or maul (penalty) [<img src="https://laws.worldrugby.org/images/signals/18_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=18)
 1. 22 drop-out [<img src="https://laws.worldrugby.org/images/signals/41_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=41)
@@ -91,8 +91,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Leaning on player in lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/29_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=29)
 1. Pushing opponent in lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/30_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=30)
-1. Stamping (foul play)(penalty) [<img src="https://laws.worldrugby.org/images/signals/38_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=38)
-1. Punching (foul play)(penalty) [<img src="https://laws.worldrugby.org/images/signals/39_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=39)
+1. Stamping (foul play) (penalty) [<img src="https://laws.worldrugby.org/images/signals/38_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=38)
+1. Punching (foul play) (penalty) [<img src="https://laws.worldrugby.org/images/signals/39_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=39)
 1. Physiotherapist needed [<img src="https://laws.worldrugby.org/images/signals/43_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=43)
 
 
