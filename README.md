@@ -54,7 +54,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Failure to bind (penalty) [<img src="https://laws.worldrugby.org/images/signals/24_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=24)
 
 
-1. Offside in the lineout (penalty) [<img src="" width=50px>]()
+1. Offside in the lineout (penalty) [<img src="https://laws.worldrugby.org/images/signals/32_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=32)
 1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
 1. Diving to the ground near the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/14_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=14)
 1. Intentionally collapsing ruck or maul (penalty) [<img src="https://laws.worldrugby.org/images/signals/18_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=18)
