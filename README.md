@@ -3,7 +3,7 @@ Trying to get a sense of the most called rugby laws infringements with ref signa
 
 See my wqebsite at https://www.rocksetta.com/rugbyref/
 
-After 30 years of rugby coaching I have started reffing and am having a hard time learning the ref secondary signals. He is an attempt to order them by most often called. (Please send a pull request or message me on twitter [@rocksetta](https://twitter.com/rocksetta) if you wish to make an addition or suggest a change inthe order )
+After 30 years of rugby coaching I have started reffing and am having a hard time learning the ref secondary signals. He is an attempt to order them by most often called. (Please send a pull request or message me on twitter [@rocksetta](https://twitter.com/rocksetta) if you wish to make an addition or suggest a change in the order )
 
 
 resources at
@@ -18,7 +18,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 # Images and videos from world rugby at https://laws.worldrugby.org/?signal_category=2
 
-## Ref Signals in order of called (Very un-scientific just how I feel about it) 
+## Ref Signals in order of Most Often Called (Very un-scientific just how I feel about it.) 
 
 
 
