@@ -20,7 +20,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Knock-on (scrum)   [![Forming a scrum](https://laws.worldrugby.org/images/signals/6_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=3&videoid=6 "Forming a scrum")
 
-
+ [!(https://laws.worldrugby.org/images/signals/6_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=3&videoid=6 )
 
 1. Throw forward or forward pass (scrum)
 1. Try 
