@@ -3,7 +3,7 @@ Trying to get a sense of the most often called rugby infringements with there re
 
 See my website at https://www.rocksetta.com/rugbyref/
 
-Also look at the webpage conversion of this page at https://hpssjellis.github.io/rugby-ref-signals-ordered-penalties-free-kick-scrum/public/
+
 
 After 30 years of rugby coaching I have started reffing and am having a hard time learning the ref secondary signals. He is an attempt to order them by most often called. (Please send a pull request or message me on twitter [@rocksetta](https://twitter.com/rocksetta) if you wish to make an addition or suggest a change in the order )
 
