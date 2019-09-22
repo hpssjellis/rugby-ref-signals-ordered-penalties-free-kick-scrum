@@ -9,11 +9,13 @@ resources at
 Nigel Owens  http://www.bruffrfc.com/understanding-referees-signals-strictly-for-rugby-geeks/2015/09/16/
 
 
-World Rugby https://laws.worldrugby.org/?signal_category=2
 
 BBC Sport http://news.bbc.co.uk/sportacademy/bsp/hi/rugby_union/rules/referees_signals/html/default.stm
 
 Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
+
+
+# Images and video from world rugby at https://laws.worldrugby.org/?signal_category=2
 
 ## Ref Signals in order of called (Very un-scientific just how I feel about it) 
 
