@@ -20,16 +20,17 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 ## Ref Signals in order of called (Very un-scientific just how I feel about it) 
 
 
-1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>)](https://laws.worldrugby.org/?signal_category=2&videoid=8)
+1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=100px>](https://laws.worldrugby.org/?signal_category=2&videoid=8)
 
-1. Throw forward or forward pass (scrum) [![](https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=2&videoid=7)
-1. Try  [![](https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=1&videoid=3)
-1. Tackler or tackled player not rolling away (penalty) [![](https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=2&videoid=11)
-1. Handling ball in ruck or scrum (penalty) [![]()]()
+1. Throw forward or forward pass (scrum) [<img src="(https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg" width=100px>](https://laws.worldrugby.org/?signal_category=2&videoid=7)
+1. Try  [<img src="(https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg" width=100px>](https://laws.worldrugby.org/?signal_category=1&videoid=3)
+1. Tackler or tackled player not rolling away (penalty) [<img src="(https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg" width=100px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
 
-1. Offside at scrum, ruck or maul (penalty)
-1. Throw at lineout not straight (scrum)
-1. Forming a scrum
+1. Handling ball in ruck or scrum (penalty) [<img src="" width=100px>]()
+
+1. Offside at scrum, ruck or maul (penalty) [<img src="" width=100px>]()
+1. Throw at lineout not straight (scrum) [<img src="" width=100px>]()
+1. Forming a scrum [<img src="" width=100px>]()
 1. Offside choice: penalty or scrum (penalty)
 1. Timekeeper to stop and start watch (penalty)
 
