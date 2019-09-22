@@ -21,6 +21,11 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 ## Ref Signals in order of called (Very un-scientific just how I feel about it) 
 
 
+
+1. Penalty (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
+1. Scrum (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
+
+
 1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=8)
 
 1. Throw forward or forward pass (scrum) [<img src="https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=7)
@@ -31,18 +36,19 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 1. Offside at scrum, ruck or maul (penalty) [<img src="https://laws.worldrugby.org/images/signals/34_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=34)
 1. Throw at lineout not straight (scrum) [<img src="https://laws.worldrugby.org/images/signals/26_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=26)
-1. Forming a scrum [<img src="" width=50px>]()
-1. Offside choice: penalty or scrum (penalty) [<img src="" width=50px>]()
-1. Timekeeper to stop and start watch (penalty) [<img src="" width=50px>]()
+1. Forming a scrum [<img src="https://laws.worldrugby.org/images/signals/6_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=6)
 
-1. Not releasing ball immediately in the tackle
-1. Tackler not releasing tackled player
-1. High tackle (foul play) (penalty)
-1. Time off
-1. Offside under 10-metre law or not 10 metres at penalty and free-kicks (penalty)
+1. Timekeeper to stop and start watch (penalty) [<img src="https://laws.worldrugby.org/images/signals/46_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=46)
+
+1. Not releasing ball immediately in the tackle [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
+1. Tackler not releasing tackled player [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
+1. High tackle (foul play) (penalty) [<img src="" width=50px>]()
+1. Time off [<img src="" width=50px>]()
+1. Offside under 10-metre law or not 10 metres at penalty and free-kicks (penalty) [<img src="" width=50px>]()
 
 1. Obstruction in open play (penalty)
 1. Offside in the lineout (penalty)
+1. Offside choice: penalty or scrum (penalty) [<img src="https://laws.worldrugby.org/images/signals/35_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=35)
 1. Diving to the ground near the tackle (penalty)
 1. Intentionally collapsing ruck or maul (penalty)
 1. 22 drop-out
@@ -54,6 +60,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Unplayable ball in maul (scrum)
 
 1. Scrum wheeled more than 90 degrees (scrum)
+
+1. Free Kick (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/2_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=2)
 1. Foot-up by front-row player (free-kick)
 1. Throw at scrum not straight (free-kick)
 1. Closing gaps in lineout (free-kick)
