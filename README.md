@@ -23,8 +23,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 
 
-1. <font color=red>Penalty (Primary Ref Signal)</font> [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
-1. <font color=green> Scrum (Primary Ref Signal) </font> [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
+1. <span style="color:red"Penalty (Primary Ref Signal)</span> [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
+1. <span style="color:blue" Scrum (Primary Ref Signal) </span> [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
 
 
 1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=8)
