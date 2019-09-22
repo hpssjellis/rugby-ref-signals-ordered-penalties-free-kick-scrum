@@ -21,6 +21,8 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 # Images and videos from world rugby at https://laws.worldrugby.org/?signal_category=2
 
+Note: That this list is just for youth rugby, the order might be fairly different for World Cup rugby.
+
 ## Ref Signals in order of Most Often Called (Very un-scientific just how I feel about it.) 
 
 
