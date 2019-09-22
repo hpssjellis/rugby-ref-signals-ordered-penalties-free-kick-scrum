@@ -38,6 +38,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 1. Diving to the ground near the tackle (penalty)
 1. Intentionally collapsing ruck or maul (penalty)
 1. 22 drop-out
+1. Entering tackle from wrong direction (penalty)
 1. Ball held up in in-goal (scrum)
 1. Unplayable ball in ruck or tackle (scrum)
 1. Unplayable ball in maul (scrum)
@@ -50,9 +51,14 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 
 
 
-
 Rare Ref Signals
-
+1. Intentionally falling over on a player (penalty)
+1. Joining a ruck or a maul in front of the back foot and from the side (penalty)
+1. Prop pulling down opponent (penalty)
+1. Prop pulling opponent (penalty)
+1. Barging in lineout (penalty)
+1. Leaning on player in lineout (penalty)
+1. Pushing opponent in lineout (penalty)
 1. Head injury assessment required
 1. Referee consults TMO
 1. Stamping (foul play)(penalty)
