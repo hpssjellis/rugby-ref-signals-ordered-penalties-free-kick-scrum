@@ -18,9 +18,7 @@ Rugby Nor Cal  https://www.rugbynorcal.org/spectators-guide-to-rugby/
 ## Ref Signals in order of called (Very un-scientific just how I feel about it) 
 
 
-1. Knock-on (scrum)    [![Forming a scrum](https://laws.worldrugby.org/?signal_category=3&videoid=6)](https://laws.worldrugby.org/?signal_category=3&videoid=6 "title")
-
-[![Forming a scrum](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://laws.worldrugby.org/?signal_category=3&videoid=6 "Forming a scrum")
+1. Knock-on (scrum)   [![Forming a scrum](https://laws.worldrugby.org/images/signals/6_2016_thumb.jpg)](https://laws.worldrugby.org/?signal_category=3&videoid=6 "Forming a scrum")
 
 
 
