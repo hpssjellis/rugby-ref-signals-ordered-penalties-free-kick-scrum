@@ -3,6 +3,19 @@ Trying to get a sense of the most often called rugby infringements with there re
 
 See my website at https://www.rocksetta.com/rugbyref/
 
+Great links:
+
+https://docs.google.com/spreadsheets/d/15JNs-PIrUKW0SS9bAy0UxCjKtQCovFydh3zoDKVb8TA/edit#gid=1799259824
+
+https://www.sd43.bc.ca/school/summit/SportsMusicClubs/Documents/RUGBY%20FOR%20DUMMIES%20CHEAT%20SHEET.pdf
+
+https://sports.bluesombrero.com/Default.aspx?tabid=363155
+
+https://www.myactivesg.com/Sports/Rugby/How-To-Play/Rugby-for-Beginners/Rugby-Union-The-Basics
+
+
+
+
 
 .
 
