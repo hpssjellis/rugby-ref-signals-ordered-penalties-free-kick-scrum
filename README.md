@@ -115,3 +115,9 @@ Note: That this list is just for youth rugby, the order might be fairly differen
 1. Physiotherapist needed [<img src="https://laws.worldrugby.org/images/signals/43_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=3&videoid=43)
 
 
+## Global Rugby Law Trials
+
+[yuotube simplified](https://www.youtube.com/watch?v=yAMIce2CqNU)
+
+![global-rugby-trials.png](global-rugby-trials.png)
+
