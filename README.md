@@ -67,8 +67,8 @@ Note: That this list is just for youth rugby, the order might be fairly differen
 
 
 
-1. Penalty (Primary Ref Signal) ![](https://www.world.rugby/the-game/laws/signal/1/)
-1. Scrum (Primary Ref Signal)  ![](https://www.world.rugby/the-game/laws/signal/5/)
+1. [Penalty (Primary Ref Signal)](https://www.world.rugby/the-game/laws/signal/1/)
+1. [Scrum (Primary Ref Signal)](https://www.world.rugby/the-game/laws/signal/5/)
 
 
 
