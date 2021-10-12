@@ -13,7 +13,9 @@ My Rugby Ref read the laws playlist https://www.youtube.com/playlist?list=PL57Dn
 ## Ref Laws by Number MP3's
 
 
-![Full-ref-signals-read](mp3/Full-ref-signals-read.mp3)
+
+
+<a href=“mp3/Full-ref-signals-read.mp3”>mp3/Full-ref-signals-read.mp3</a>
 
 .
 
@@ -65,8 +67,8 @@ Note: That this list is just for youth rugby, the order might be fairly differen
 
 
 
-1. Penalty (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/1/)
-1. Scrum (Primary Ref Signal)  [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/5/)
+1. Penalty (Primary Ref Signal) ![](https://www.world.rugby/the-game/laws/signal/1/)
+1. Scrum (Primary Ref Signal)  ![](https://www.world.rugby/the-game/laws/signal/5/)
 
 
 
