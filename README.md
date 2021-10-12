@@ -65,20 +65,20 @@ Note: That this list is just for youth rugby, the order might be fairly differen
 
 
 
-1. Penalty (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=1)
-1. Scrum (Primary Ref Signal)  [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=5)
+1. Penalty (Primary Ref Signal) [<img src="https://laws.worldrugby.org/images/signals/1_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/1/)
+1. Scrum (Primary Ref Signal)  [<img src="https://laws.worldrugby.org/images/signals/5_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/5/)
 
 
 
-https://www.world.rugby/the-game/laws/signal/7/
 
 
 
-1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=8)
 
-1. Throw forward or forward pass (scrum) [<img src="https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=7)
-1. Try  [<img src="https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=1&videoid=3)
-1. Tackler or tackled player not rolling away (penalty) [<img src="https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
+1. Knock-on (scrum) [<img src="https://laws.worldrugby.org/images/signals/8_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/8/)
+
+1. Throw forward or forward pass (scrum) [<img src="https://laws.worldrugby.org/images/signals/7_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/7/)
+1. Try  [<img src="https://laws.worldrugby.org/images/signals/3_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/3/)
+1. Tackler or tackled player not rolling away (penalty) [<img src="https://laws.worldrugby.org/images/signals/11_2016_thumb.jpg" width=50px>](https://www.world.rugby/the-game/laws/signal/11/)
 
 1. Not releasing ball immediately in the tackle (penalty) [<img src="https://laws.worldrugby.org/images/signals/9_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=9)
 1. Tackler not releasing tackled player (penalty) [<img src="https://laws.worldrugby.org/images/signals/10_2016_thumb.jpg" width=50px>](https://laws.worldrugby.org/?signal_category=2&videoid=11)
