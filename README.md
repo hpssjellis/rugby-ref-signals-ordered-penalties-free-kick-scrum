@@ -72,16 +72,8 @@ Note: That this list is just for youth rugby, the order might be fairly differen
 1. [ 4 (Primary Ref Signal)](https://www.world.rugby/the-game/laws/signal/4/)
 1. [Scrum (Primary Ref Signal)](https://www.world.rugby/the-game/laws/signal/5/)
 1. [6 (Primary Ref Signal)](https://www.world.rugby/the-game/laws/signal/6/)
-
-
-
-
-
-
-1. [Throw forward or forward pass (scrum) [](https://www.world.rugby/the-game/laws/signal/7/)
+1. [Throw forward or forward pass (scrum) ](https://www.world.rugby/the-game/laws/signal/7/)
 1. [Knock-on (scrum) ](https://www.world.rugby/the-game/laws/signal/8/)
-
-
 1.[ Not releasing ball immediately in the tackle (penalty) ](https://www.world.rugby/the-game/laws/signal/9/)
 1. [10 ](https://www.world.rugby/the-game/laws/signal/10/)
 1. [Tackler or tackled player not rolling away (penalty)](https://www.world.rugby/the-game/laws/signal/11/)
