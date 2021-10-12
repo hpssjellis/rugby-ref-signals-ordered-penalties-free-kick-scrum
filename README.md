@@ -11,54 +11,6 @@ My Rugby Ref read the laws playlist https://www.youtube.com/playlist?list=PL57Dn
 
 
 
-test page
-
-
-The playing surface must be safe.
-The permitted surface types are grass, sand, clay, snow or artificial turf (conforming to World Rugby Regulation 22).
-The dimensions of the playing area are shown in the ground diagram.
-
-The ground
-Dimensions	Field of play length	In-goal length	Width
-Maximum (metres)	100	22	70
-Minimum (metres)	94	6	68
-The playing area is rectangular in shape.
-Any variations to these dimensions must be approved by the relevant union for domestic competitions or World Rugby for international matches.
-Where the length of the field of play is less than 100 metres, the distance between the 10-metre lines and 22-metre lines is reduced accordingly.
-Where the width of the playing area is less than 70 metres, the distance between the 15-metre lines is reduced accordingly.
-The perimeter area should not be less than five metres wide where practicable.
-
-LINES
-
-There are solid lines configured as shown in the ground diagram. The solid lines are on:
-The dead-ball lines and touch-in-goal lines.
-The goal lines.
-The 22-metre lines.
-The half-way line.
-The touchlines.
-There are dash lines configured as shown in the ground diagram. Each dash within a dash line is five metres in length. There are dash lines:
-Five metres from, and parallel to each touchline.
-15 metres from, and parallel to, each touchline.
-10 metres from, and parallel to, each side of the half-way line.
-Five metres from, and parallel to, each goal line.
-There is one line 0.5 metres long that intersects the centre of the half-way line.
-GOAL POSTS AND CROSSBAR
-
-When padding is attached to the goal posts the distance from the goal line to the external edge of the padding must not exceed 0.3 metres.
-
-Goal posts
-FLAG POSTS
-
-There are 14 flag posts with flags, each with a minimum height of 1.2 metres.
-One flag post is positioned at each intersection of the touch-in-goal lines and the goal lines and one at each intersection of the touch-in-goal lines and the dead-ball lines (eight flag posts in total).
-One flag post is positioned in line with the 22-metre line and the half-way line on each side of the pitch, two metres outside the touchlines and within the playing enclosure (six flag posts in total).
-OBJECTIONS TO THE GROUND
-
-Teams must inform the referee of any objections before the match starts.
-The referee will attempt to resolve the issues and will not start a match if any part of the ground is considered to be unsafe.
-
-
-
 
 
 
@@ -74,6 +26,9 @@ https://www.myactivesg.com/Sports/Rugby/How-To-Play/Rugby-for-Beginners/Rugby-Un
 
 
 
+## Ref Laws by Number MP3's
+
+ 
 
 
 .
