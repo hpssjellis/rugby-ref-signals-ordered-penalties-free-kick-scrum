@@ -14,8 +14,7 @@ My Rugby Ref read the laws playlist https://www.youtube.com/playlist?list=PL57Dn
 
 
 
-
-<a href="./mp3/Full-ref-signals-read.mp3">mp3/Full-ref-signals-read.mp3</a>
+Strangely can't play but can download from [mp3](mp3)
 
 .
 
